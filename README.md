@@ -1,7 +1,7 @@
 # Ecommerce Udemy Course - Django and React
 
  
-[TOC levels=2]: # "### Table of contents"
+[TOC levels=2]: # "## Table of contents"
 
 ## Initial setup/configuration
 
@@ -9,7 +9,8 @@ Details on setting up local machine, including PyCharm, etc. for this course.
 
 1. Create empty github repo
 2. Clone newly created github repo in PyCharm
-3. 
+3. In PyCharm project, setup a venv for the project.
+4. Add README.md file to the repo and commit/push.
 
 ## React Front End setup
 
